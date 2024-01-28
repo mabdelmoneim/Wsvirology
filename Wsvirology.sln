@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wsvirology", "Wsvirology\Wsvirology.csproj", "{8C8F5F55-A1B0-474C-837B-86E9E93375A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C8F5F55-A1B0-474C-837B-86E9E93375A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8F5F55-A1B0-474C-837B-86E9E93375A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8F5F55-A1B0-474C-837B-86E9E93375A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8F5F55-A1B0-474C-837B-86E9E93375A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEAADAB-3E61-4B73-97C0-78AF9B56BC6E}
+	EndGlobalSection
+EndGlobal
